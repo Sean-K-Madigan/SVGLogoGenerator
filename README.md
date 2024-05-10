@@ -24,7 +24,6 @@
   I WANT to generate a simple logo for my projects,
   SO THAT I don't have to pay a graphic designer.
 
-
   ## Deployed Link
 
   Add link here
@@ -63,4 +62,4 @@
 
   ## Questions
 
-  Direct any and all questions to [!Sean-K-Madigan](https://github.com/Sean-K-Madigan) on GitHub or to the author via email at sean.k.a.madigan@gmail.com.
+  Direct any and all questions to ![Sean-K-Madigan](https://github.com/Sean-K-Madigan) on GitHub or to the author via email at sean.k.a.madigan@gmail.com.
