@@ -38,7 +38,7 @@
 
   ## Application Screenshot
 
-  ![Application Screenshot](./images/Walkthrough)
+  ![Application Video](./images/Walkthrough)
 
   ## Credits
 
